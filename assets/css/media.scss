@@ -1,0 +1,375 @@
+@media screen and (max-width:768px) {
+    .footer_adress{
+      position: relative;
+      z-index: 999999;
+    }
+    .ved{
+      position: absolute;
+      height: 600px;
+      object-fit: contain;
+    }
+    .footer{
+      position: relative;
+      overflow: hidden;
+    }
+  .footer_map{
+    width: 100%;
+    .scenez_footer{
+      position: absolute;
+      height: 700px;
+      width: 100%;
+    }
+  }
+
+
+  .uslugi_card{
+      width: 100%;
+      margin: 0 auto;
+      margin-top: 20px;
+      height: 230px;
+  }
+  .tree_block{
+      background-attachment: initial;
+      height: 100%;
+  }
+  .tree_block .container-fluid{
+      width: initial;
+  }
+  .button_cart{
+      width: 100px;
+      height: 40px;
+      font-size: 10px;
+  }
+  .text_card{
+      padding: 10px;
+      width: 100%;
+      top: 30%;
+      h1{
+        font-size: 10px !important;
+        padding-top: 10px;
+        text-shadow: 5px 5px 1px black, 0 0 1em rgb(0, 0, 0); /* Параметры тени */
+
+
+      }
+  }
+  .img_uslugi{
+      height: 80px;
+  }
+  
+
+  .block_for{
+      height: 100%;
+  }
+
+  .block_tree_our .tree_usligi{
+      font-size: 25px;
+  }
+  .left_b{
+      position: absolute;
+      height: 100%;
+      opacity: 0.3;
+  }
+
+  .tabs_text p{
+      font-size: 14px;
+      padding: 10px;
+  }
+  .tabs_text{
+      margin-bottom: 100px;
+      height: 300px;
+      padding: 20px;
+  }
+  .nav-tabs .nav-link{
+      margin: 0 auto !important;
+      font-size: 13px;
+    
+  }
+ 
+     .raschet .nav{
+      
+        width: 100%;
+        display: flex ;
+        justify-content: center ;
+        margin: 0 auto;
+      }
+  
+
+  .two_block{
+      height: 100%;
+  }
+
+  .two_block .two_block_our{
+      padding: 10px;
+  }
+  .two_org{
+      text-align: left;
+  }
+  .two_block .two_block_our .army{
+      text-align: left;
+  }
+  .two_block .preim_nomber{
+      height: 100%;
+      margin-top: 40px;
+  }
+  .two_block .two_block_our .army{
+      padding-top: 20px;
+  }
+
+  .footer_adress{
+      width: 100%;
+  }
+
+  .tree{
+      margin-top: 30px;
+  }
+
+  
+  .hz{
+      font-size: 10px;
+      padding-top: 50px;
+      height: 50px !important;
+  }
+  
+
+  .vibor .card_vibor{
+      justify-content: center;
+      width: 120px;
+      cursor: pointer;
+      
+    
+  }
+  .vibor{
+      padding: 0 !important;
+      position: relative;
+      margin-top: 150px;
+      width: 100% !important;
+      
+  }
+
+  .vibor .img_vibor{
+      position: absolute;
+      margin-left: 0;
+      left: 0;
+      top: 35%;
+      right: 0;
+      object-fit: contain;
+      height: 55px  !important;
+      width: 100%;
+     
+  }
+  .vot{
+      z-index: 999999;
+     
+  }
+  .vibor .card_vibor p{
+      text-align: center;
+      border-radius: 20px;
+      font-size: 10px !important;
+      
+  }
+  .vot .a_link{
+      display: none;
+      color: #fff;
+      text-shadow: 5px 5px 1px black, 0 0 1em rgb(0, 0, 0); /* Параметры тени */
+font-size: 10px;
+justify-content: center;      padding-top: 32px;
+
+      font-weight: bold;
+      text-align: center;
+  }
+
+  .primeri{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    
+    .btn-danger{
+        width: 100px;
+
+        height: 26px;      padding-top: 5px;
+
+        font-size: 12px;
+    }
+  }
+ 
+  .vibor .primari_text h1{
+      font-size: 12px !important;
+  }
+  .vibor .primari_text{
+      top: 8%;
+      width: 100%;
+  }
+
+
+  .two_block .preim_nomber .block_number{
+      width: 100%;
+      height: 150px;
+  }
+
+  .header{
+    background-size: cover;
+    height: 100%;
+    background: linear-gradient( rgb(0, 0, 0), #1b1919, #181616, );
+
+    background-position: center;
+    width: 100%;
+    .scenez_footer{
+        z-index: 1;
+        width: 100%;
+        height: 100%;
+        margin-top: 100px;
+        position: absolute;
+    }
+  }
+
+
+  .img_logo{
+      width: 200px;
+  }
+  .block_header{
+      margin-top: 150px;
+  }
+  .navbar{
+    position: relative !important;
+  
+    width: 100% !important;
+    filter: drop-shadow(2px 4px 8px #4d0be7);
+    background-color: red;
+    background: linear-gradient(#191717, #322538, #1f1f1f);
+
+
+}
+.phone{
+    display: none;
+}
+
+
+.ico_block .icon_soc_twos{
+    margin-left: 0;
+}
+
+
+.vibor .footer_logo{
+    width: 30px ;
+    height: 30px;
+}
+.two_block .two_cons{
+    margin-top: 0;
+}
+
+.block_for{
+    position: relative;
+    overflow: hidden;
+    .ved{
+      position: absolute;
+      height: 600px;
+      width: 400px;
+      right: -40%;
+      z-index: 1;
+      object-fit: contain;
+    }
+  }
+
+  .block_for .custom-shape-divider-top-1636107172 svg{
+      height: 50px;
+  }
+  .block_for .custom-shape-divider-top-1636107172{
+      z-index: 2;
+  }
+
+
+  .primeri .primari_text h1{
+      font-size: 35px;
+  }
+  .primeri .primari_text{
+      top: 20%;
+  }
+
+  .two_block .preim_nomber .block_number h1{
+      top: 18px;
+  }
+  #scenez{
+      display: none;
+  }
+  #scenezz{
+    display: none;
+}
+#scenezzz{
+    display: none;
+}
+
+.icon_soc_twos{
+        
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+
+  .hz{
+    width: 100% !important;
+  }
+  .block_header{
+      margin-top: 150px !important;
+  }
+  
+  .preload_block{
+    padding-bottom: 100px !important;
+
+    overflow: hidden; 
+    height: 100% !important;
+    h1{
+        font-size: 30px !important;
+    }
+   
+  }
+  .h5_text h5{
+    font-size: 15px !important;
+}
+
+
+.two_block{
+height: 100% !important;
+}
+
+
+.about{
+    overflow: hidden;
+}
+.about .samo_photo{
+    width: 100%;
+    border-radius: 20px;
+}
+.about .about_color{
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    font-size: 12px;
+    height: 100%;
+    width: 100%;
+}
+
+.pt_h1{
+    font-size: 30px !important;
+}
+
+
+.uslug_h1{
+    width: 100%;
+    text-align: left;
+    font-size: 16px !important;
+
+}
+.uslug_h2{
+    font-size: 15px !important;
+    text-align: left;
+
+}
+
+.foto_semka h1{
+    font-size: 40px;
+}
+.spec_h11{
+    display: none !important;
+}
+}
+
