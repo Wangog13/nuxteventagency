@@ -6,11 +6,11 @@
  
   <div class="col-6">
 
- <a class="card_vibor" href="/organizaciya-dnya-rojdeniya">
+ <a class="card_vibor"  href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>День <span style="color:#fff;">рождения</span> </p>
-                        <a class="a_link" href="/">Переити</a>
+                        <!-- <a class="a_link" href="/">Переити</a> -->
 
   
         
@@ -21,11 +21,11 @@
 </div>
   <div class="col-6">
    
- <a class="card_vibor" href="/organizaciya-yubileev">
+ <a class="card_vibor" href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>Юбилей <span style="color:#fff;"></span> </p>
-                        <a class="a_link" href="#">Переити</a>
+                        <!-- <a class="a_link" href="#">Переити</a> -->
 
   
         
@@ -36,11 +36,11 @@
 </div>
   <div class="col-6">
    
-<a class="card_vibor" href="/organizaciya-svadeb">
+<a class="card_vibor"  href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>Свадьба <span style="color:#fff;"></span> </p>
-                        <a class="a_link" href="#">Переити</a>
+                        <!-- <a class="a_link" href="#">Переити</a> -->
 
   
         
@@ -51,11 +51,11 @@
 </div>
   <div class="col-6">
   
-<a class="card_vibor" href="/organizaciya-karparativov">
+<a class="card_vibor"  href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>Карпаратив <span style="color:#fff;"></span> </p>
-                        <a class="a_link" href="#">Переити</a>
+                        <!-- <a class="a_link" href="#">Переити</a> -->
 
   
         
@@ -66,11 +66,11 @@
 
     
 </div>
- <a class="card_vibor d-md-none dddd" href="/organizaciya-vipusknih">
+ <a class="card_vibor d-md-none dddd"  href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>Выпускной <span style="color:#fff;"></span> </p>
-                        <a class="a_link" href="#">Переити</a>
+                        <!-- <a class="a_link" href="#">Переити</a> -->
 
   
         
@@ -80,11 +80,11 @@
     </a>
   <div class="col-6 d-none d-lg-block d-md-block">
 
- <a class="card_vibor dddd"  href="/organizaciya-vipusknih">
+ <a class="card_vibor dddd"   href="#">
         <div class="vot">
                  <!-- <h1>02</h1> -->
                        <p>Выпускные <span style="color:#fff;"></span> </p>
-                        <a class="a_link" href="#">Переити</a>
+                        <!-- <a class="a_link" href="#">Переити</a> -->
 
   
         

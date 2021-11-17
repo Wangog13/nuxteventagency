@@ -2146,17 +2146,17 @@ z-index: 9999999;
   margin: 0 auto;
 }
 .footer_adress{
-  width: 600px;
+  width: 650px;
 
   padding-top: 80px;
   h1{
     color: #ffc300;
     text-align: left !important;
-    font-size: 40px !important;
+    font-size: 30px !important;
   }
   h4{
     color: #fff;
-    font-size: 22px;
+    font-size: 18px;
     text-align: left;
   }
   .tel{
@@ -2165,7 +2165,7 @@ z-index: 9999999;
     margin: 0 auto;
     h5{
       color: #fff;
-      font-size: 30px;
+      font-size: 18px;
     }
   }
 }
@@ -2419,7 +2419,7 @@ background: radial-gradient(circle, #322538, #1f1f1f);
 
 .block_cont{
   margin-top: 100px ;
-  height: 800px;
+  height: 100%;
 }
 
 .img_content{
@@ -2440,7 +2440,7 @@ background: radial-gradient(circle, #322538, #1f1f1f);
     font-size: 18px;
   }
   .footer_adress h1{
-    font-size: 20px !important;
+    font-size: 20px ;
   }
   .footer_brand{
     width: 200px;
@@ -2449,7 +2449,7 @@ background: radial-gradient(circle, #322538, #1f1f1f);
     font-size: 18px;
   }
   .footer{
-    height:  1200px;
+    height:  1100px;
 
   }
   .block_cont{
@@ -3042,6 +3042,82 @@ background: radial-gradient(circle, #69228a, #1f1f1f);
   
 }}
 
-// .part{
-//   height: 900px;
-// }
+.part{
+overflow: hidden;
+  height: 100%;
+  position: relative;
+  
+  h1{
+    text-align: left !important;
+    padding-left: 100px;
+    padding-top: 100px;
+    color: #ebb60b;
+    font-size: 70px !important;
+  }
+  .partner_img{
+    width: 200px;
+    position: relative;
+
+    height: 150px;
+    &::before{
+      top: 15%;
+      position: absolute;
+      background: url(../img/part/Vector.png) 100% no-repeat;
+      width: 110%;
+      object-fit: cover;
+      height: 100%;
+      content: '';
+      display: block;
+    }
+    &:hover img{
+      transition: 1s ease-in-out;
+      transform: scale(1.2);
+    }
+    .part_img{
+      width: 200px;
+      transition: 1s ease-in-out;
+      background-color: #fcfcfc;
+      height: 100px;border: 1px red solid;
+      padding: 20px;
+      border-radius: 20px;
+      object-fit: contain;
+   
+      
+    }
+  }
+ 
+}
+
+.part_block{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.ten_part{
+  position: absolute;
+  top: 10%;
+}
+
+.ten_parts{
+  position: absolute;
+  width: 100%;
+  object-fit: contain;
+  right: 0;
+  bottom: -10%;
+  height: 900px;
+  opacity: 0.05;
+}
+
+.albom{
+  height: 100%;
+  padding-bottom: 50px;
+  h1{
+    color: #ebb60b;
+  }
+}
+.albom_proho{
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+  object-fit: cover;
+}

@@ -32,7 +32,10 @@
 </template>
 
 <script>
+import { Fancybox, Carousel, Panzoom } from "@fancyapps/ui";
+
     export default {
+      
   data() {
       return {
         items: [

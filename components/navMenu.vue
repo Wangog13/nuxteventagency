@@ -22,7 +22,21 @@
     <!-- <div class="ten"> -->
   <!-- <img src="../assets/img/1/header.png" class="els"> -->
 
-   <div class="icon_soc" >
+
+
+
+    <div class="icon_soc d-lg-none d-md-none " >
+
+
+<a href="https://wa.me/375336504888"><img src="https://img.icons8.com/ios/50/000000/whatsapp--v4.png" class="icons"/></a>
+<a href="viber://chat?number=375336504888"><img src="https://img.icons8.com/ios/50/000000/apple-phone.png" class="icons"/></a>
+<a href="http://t.me/Rzheusskiy"><img src="https://img.icons8.com/ios/50/000000/telegram-app.png" class="icons"/></a>
+
+
+</div>
+
+
+   <div class="icon_soc  d-none" >
       
 <img src="https://img.icons8.com/ios/50/000000/instagram-new--v1.png" class="icons"/>
 
@@ -95,10 +109,12 @@
   <Vibor/>
   <div class="ico_block ">
     <div class="phone" >
-        <img src="https://img.icons8.com/ios/50/000000/whatsapp--v4.png" class="icons"/>
-<img src="https://img.icons8.com/ios/50/000000/telegram-app.png" class="icons"/>
+       
+<a href="https://wa.me/375336504888"><img src="https://img.icons8.com/ios/50/000000/whatsapp--v4.png" class="icons"/></a>
+<a href="viber://chat?number=375336504888"><img src="https://img.icons8.com/ios/50/000000/apple-phone.png" class="icons"/></a>
+<a href="http://t.me/Rzheusskiy"><img src="https://img.icons8.com/ios/50/000000/telegram-app.png" class="icons"/></a>
 
-<img src="https://img.icons8.com/ios/50/000000/apple-phone.png" class="icons"/>
+
 
 
 

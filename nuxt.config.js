@@ -22,9 +22,13 @@ export default {
     
   
     // SCSS file in the project
+    '@/assets/css/fancybox.css',
     '@/assets/css/main.scss',
     '@/assets/css/main.css',
     '@/assets/css/media.scss',
+    'primevue/resources/themes/saga-blue/theme.css',
+    'primevue/resources/primevue.css',
+    'primeicons/primeicons.css'
 
 
   ],

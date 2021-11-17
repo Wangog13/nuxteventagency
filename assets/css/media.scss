@@ -117,6 +117,9 @@
 
   .footer_adress{
       width: 100%;
+      h1{
+          font-size: 15px !important;
+      }
   }
 
   .tree{
@@ -371,5 +374,69 @@ height: 100% !important;
 .spec_h11{
     display: none !important;
 }
+
+
+
+
+
+
+
+.part{
+    overflow: hidden;
+      height: 100%;
+      position: relative;
+      
+      h1{
+        text-align: left !important;
+        padding: 0;
+        text-align: center;
+        color: #ebb60b;
+        padding-top: 50px;
+        padding-left: 5%;
+        font-size: 40px !important;
+      }
+    }
+
+    .part .partner_img{
+        margin: 0 auto;
+        width: 150px;
+
+    }
+    .part .partner_img .part_img{
+        width: 150px;
+    }
+    .footer_map{
+        margin-top: 50px;
+    }
+
+
+    .cd{
+        top: 10%;
+        position: absolute;
+    }
+
+
+    .icon_soc .icons{
+        width: 50px !important;
+    }
+
+    .vedus{
+        width: 100% !important;
+    }
+
+
+    .albom_proho{
+        height: 150px;
+        margin-top: 20px;
+        width: 100%;
+        border-radius: 20px;
+        object-fit: cover;
+      }
+
+      .albom{
+          
+        height: 100%;
+        
+      }
 }
 

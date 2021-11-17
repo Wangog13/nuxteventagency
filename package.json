@@ -20,7 +20,9 @@
     "node-sass": "^6.0.1",
     "nuxt": "^2.15.7",
     "nuxt-mail": "^3.0.12",
-    "parallax-js": "^3.1.0"
+    "parallax-js": "^3.1.0",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.8.2"
   },
   "devDependencies": {
     "fibers": "^5.0.0",

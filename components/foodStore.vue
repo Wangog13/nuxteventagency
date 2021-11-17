@@ -1,7 +1,7 @@
 <template>
     <div>
 
-<div class="footer">
+<div class="footer" id="kontakti">
   <div class="container">
     <img src="~/assets/img/logo.png" class="footer_brand">
     <div class="row">
@@ -13,10 +13,25 @@
   Мы находимся в самом центре Витебска ул. Толстого 8 
 
 </h4>
-<div class="tel">
-  <h5>+375 (33) 695-48-88 (МТС)</h5>
-    <h5> +375 (29) 170-66-27 (A1)</h5>
+<div class="tel ">
+  <a href="tel:+375336954888"><h5>+375 (33) 695-48-88 (МТС)</h5></a>
+    <a href="tel:+375336854888"><h5>+375 (33) 685-48-88 (МТС)</h5></a>
 
+  <a href="tel:+375336504888"><h5>+375 (33) 650-48-88 (МТС)</h5></a>
+  <h5>Email: asaevent@yandex.by</h5>
+<div class="soc_footer">
+  
+    <div class="icon_soc" >
+
+
+<a href="https://wa.me/375336504888"><img src="https://img.icons8.com/ios/50/000000/whatsapp--v4.png" class="icons"/></a>
+<a href="viber://chat?number=375336504888"><img src="https://img.icons8.com/ios/50/000000/apple-phone.png" class="icons"/></a>
+<a href="http://t.me/Rzheusskiy"><img src="https://img.icons8.com/ios/50/000000/telegram-app.png" class="icons"/></a>
+
+
+
+  </div>
+</div>
 </div>
 <div class="soc_footer">
   

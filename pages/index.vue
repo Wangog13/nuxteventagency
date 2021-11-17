@@ -569,28 +569,140 @@
 </div>
 
 <div class="part">
-  <div class="container">
-<div class="partner_img">
+  <img src="~/assets/img/part/131.png" class="ten_part">
+  <img src="~/assets/img/part/444.png" class="ten_parts">
 
+      <h1>Наши партнёры</h1>
+  <div class="container">
+        <div class="part_block">
+
+    <div class="row">
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/epam.png" class="part_img">
   </div> 
-   </div>
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Амико-Витебск.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Ами-Фрут.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/i-removebg-preview.png" class="part_img">
+  </div> 
+</div>
+  
+    </div>
+
+       <div class="row">
+    
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Белвест.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Белгазпромбанк.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Белоруснефть-Витебскоблнефтепродукт.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Великолукский опытный машиностроительный завод.png" class="part_img">
+  </div> 
+</div>
+  
+    </div>
+
+
+
+ <div class="row">
+    
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Витебская Биофабрика.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Витьба.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Корпорация Артериум.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Лесохозяйственные предприятия Витебской области.png" class="part_img">
+  </div> 
+</div>
+  
+    </div>
+
+
+
+
+ <div class="row">
+    
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Модерн Экспо.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Нова Клиник.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/ОАО Гедеон Рихтер.png" class="part_img">
+  </div> 
+</div>
+<div class="col-md-3 col-6">
+  <div class="partner_img">
+<img src="~/assets/img/part/Представительство АО BIONORICA.png" class="part_img">
+  </div> 
+</div>
+  
+    </div>
+
+
+
+
+   </div></div>
 </div>
 <modals/>
+
+
 <FoodStore/>
 </div>
  
 </template>
 
 <script>
+
 import Parallax from "parallax-js";
 import modals from '../components/modals.vue';
 
 
 
 
-
-
 export default {
+  
   components: { modals },
    data() {
       return {
